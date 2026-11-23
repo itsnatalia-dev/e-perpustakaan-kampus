@@ -2,7 +2,7 @@
 <html lang="id">
 <head>
     <meta charset="UTF-8">
-    <title>404 - Data atau Halaman Tidak Ditemukan</title>
+    <title>404 - Oops! Data atau Halaman Tidak Ditemukan — E-Perpustakaan Kampus</title>
     <style>
         body { font-family: 'Segoe UI', sans-serif; background: #f4f6f9; text-align: center; padding-top: 80px; color: #333; }
         .error-card { max-width: 520px; margin: auto; background: white; padding: 35px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border-top: 5px solid #e74c3c; }
